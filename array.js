@@ -17,13 +17,13 @@
  }
  else if(code >= 65 && code <= 90){
     alert("Input is uppercase");
-      //  document.write(code);
+
  }
  else if(code >=97 && code <= 122){
     alert("Input is lowercase");
-      //  document.write(code);
+   
  }
  else{
     alert("Input is not a number");
-   //   document.write(code);
+
  }
